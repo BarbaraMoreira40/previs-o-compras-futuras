@@ -66,7 +66,7 @@ cd yourrepositoryname
 - python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 - pip install -r requirements.txt
-- Configure o Banco de Dados
+- set up the Database
 - python lojavirtual.py
 
 
