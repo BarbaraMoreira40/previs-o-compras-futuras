@@ -22,7 +22,13 @@
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px"/> 
-<img src="https://emojipedia.org/dolphin" width="60px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px"/>
+
+ 
+          
+          
+           
+          
    
   
 <h2 id="started">🚀 Getting started</h2>
