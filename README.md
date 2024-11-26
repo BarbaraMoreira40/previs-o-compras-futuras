@@ -51,12 +51,14 @@ Go to http://localhost:3000 in your browser to access the running project.
 
 <h3>Prerequisites</h3>
 
-Here you list all prerequisites necessary for running your project. For example:
+Here you list all prerequisites necessary for running your project. 
 
 - [Python]
 - [Mitplotlib]
 - [Seaborn]
 - [Pycharm]
+- [scikit-learn]
+- [Pandas]
 
 <h3>Cloning</h3>
 
