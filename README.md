@@ -24,12 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="60px"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px"/>
 
- 
-          
-          
-           
-          
-   
+                                  
   
 <h2 id="started">🚀 Getting started</h2>
 
@@ -66,12 +61,19 @@ https://github.com/BarbaraMoreira40/previs-o-compras-futuras.git
 
 <h3>Starting</h3>
 
-- cd desafio
-- npm start
+- git clone https://github.com/yourusername/yourrepositoryname.git
+cd yourrepositoryname
+- python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+- pip install -r requirements.txt
+- Configure o Banco de Dados
+- python lojavirtual.py
+
+
 
 <h2 id="colab">🤝 Collaborators</h2>
 
-Special thank you for all people that contributed for this project.
+Este projeto está licenciado sob a MIT License.
 
 
 
