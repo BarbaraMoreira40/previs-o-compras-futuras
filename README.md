@@ -62,7 +62,7 @@ Here you list all prerequisites necessary for running your project.
 
 <h3>Cloning</h3>
 
-https://github.com/BarbaraMoreira40/desafio.git
+https://github.com/BarbaraMoreira40/previs-o-compras-futuras.git
 
 <h3>Starting</h3>
 
